@@ -4,9 +4,15 @@ Technologies & Concepts Demonstrated:
 
 Java
 Object-Oriented Programming (OOP)
+
 File I/O using BufferedReader and FileReader
+
 Exception Handling
+
 Multidimensional Arrays
+
 Matrix Algebra Algorithms
+
 Input Validation and Error Handling
+
 Unit-style Functional Testing
